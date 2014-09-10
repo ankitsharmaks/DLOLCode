@@ -1,0 +1,2 @@
+
+apple_NN is_VBZ not_RB a_DT fruit_NN

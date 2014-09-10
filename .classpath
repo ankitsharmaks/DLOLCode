@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/owlapi-distribution-3.4.9.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/owlapi-distribution-3.4.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/owlapi-distribution-3.4.9-sources.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-corenlp-3.3.1.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-corenlp-3.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-corenlp-3.3.1-models.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-corenlp-3.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-ner-3.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-ner-3.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/stanford-ner-2014-01-04.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/mmm-util-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/modeshape-common-3.1.0.final.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/stanford-postagger-3.3.1.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/stanford-postagger-3.3.1-src.jar"/>
+	<classpathentry kind="lib" path="I:/ankit/Dropbox/Padhai_WTF/QA/DLOL-NONISA - New Code/DLOL-NONISA/ExternalLib/Jar/stanford-postagger-2012-07-09.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
